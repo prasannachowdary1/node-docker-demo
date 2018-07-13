@@ -1,5 +1,5 @@
 # Specifies the base image we're extending
-FROM node:9.8
+FROM node:8.11.3
 
 # Create base directory
 RUN mkdir /src
