@@ -1,6 +1,6 @@
 {
   "name": "node-docker",
-  "version": "0.0.0",
+  "version": "0.9.8",
   "private": true,
   "scripts": {},
   "dependencies": {
